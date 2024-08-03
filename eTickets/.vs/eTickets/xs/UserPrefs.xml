@@ -1,4 +1,40 @@
 ﻿<Properties StartupConfiguration="{80C59673-044E-4B22-8851-C0B844424889}|https">
-  <MonoDevelop.Ide.ItemProperties.eTickets FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Movie.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Models/Actor.cs" Line="18" Column="1" />
+      <File FileName="Models/Producer.cs" Line="15" Column="3" />
+      <File FileName="Models/Cinema.cs" Line="18" Column="1" />
+      <File FileName="Models/Movie.cs" Line="27" Column="1" />
+      <File FileName="Data/MovieCategory.cs" Line="6" Column="13" />
+      <File FileName="Data/AppDbContext.cs" Line="12" Column="2" />
+      <File FileName="Program.cs" Line="18" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Models/Actor_Movie.cs" Line="10" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="eTickets">
+            <Node name="eTickets">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Movie.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.eTickets PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
